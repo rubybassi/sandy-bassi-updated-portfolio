@@ -43,9 +43,20 @@ h2 {
 
 .fas, .fab {
     padding-right: 15px; 
-    color: #7c5a9d;;
+    color: #7c5a9d;
 }
 
 h1, h2, h3, h4 {
     font-family: 'Montserrat', sans-serif;
+}
+
+.focus-btn {
+    background-color: #7c5a9d;
+    color:white;
+}
+
+.secondary-btn {
+    background-color: #7c5a9d;
+    opacity: 0.5;
+    color:white;
 }
