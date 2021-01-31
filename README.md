@@ -1,6 +1,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/rubybassi?style=social)
 
-# Sandy Bassi Fullstack Developer Portfolio
+# Sandy Bassi Fullstack Developer Updated Portfolio
 
 ## Background
 
@@ -8,11 +8,11 @@ This project is an updated version of my responsive portfolio using Bootstrap CS
 
 Demonstrating employer-competiveness, through updated and optimised projects and social media profiles, is greatly encouraged on the University of Birmingham's coding bootcamp course. 
 
-With this in mind, we was tasked with updating our portfolios to showcase our first group project and a selection of exemplary homework assignments. In addition, a downloadble CV and recent contact details were to be included so that employers can reach out.
+With this in mind, we was tasked with updating our portfolios to showcase our recent projects and a selection of exemplary homework assignments. In addition, a downloadble CV and recent contact details were to be included so that employers can reach out.
 
 I copied my previous project and imported it to preserve the commit history. I used semantic HTML elements for accessibility and best practice for structure.
 
-[View my final project on GitHub pages](https://rubybassi.github.io/Sandy-Bassi-Fullstack-Dev-Portfolio/index.html)
+[View my portfolio](https://rubybassi.github.io/sandy-bassi-updated-portfolio/index.html)
 
 ### Preview
 
